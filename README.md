@@ -7,4 +7,3 @@ En el sector del entretenimiento, fundé y dirigí una sala de espectáculos, qu
 En el mundo de la tecnología, he desarrollado diversas aplicaciones web, destacándose Gym-Metrics, una plataforma para la gestión de métricas en gimnasios, y Yochambeo, un Job board que facilita la conexión entre empleadores y trabajadores.
 
 Con una mentalidad emprendedora y una gran capacidad de adaptación, he sabido combinar mi experiencia en distintos rubros para crear proyectos sólidos y escalables. Mi enfoque estratégico, sumado a mi habilidad para la gestión y el desarrollo tecnológico, me posiciona como un empresario versátil y orientado a la innovación.
-![Screenshot 2025-03-10 230725](https://github.com/user-attachments/assets/7ae40146-c62a-4360-a414-4bd49d3cebb6)
