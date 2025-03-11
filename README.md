@@ -1,14 +1,9 @@
-Hola! mi nombre es Maximiliano Trigo
-Tambien conocido como maxitrigo en github.
-Mi email: maxitrigo@gmail.com
+Soy Maximiliano Trigo, un emprendedor y empresario uruguayo con una trayectoria diversa que abarca la gastronomía, el entretenimiento y la tecnología. A lo largo de mi carrera, he fundado y gestionado múltiples negocios, desde bares y discotecas hasta desarrollos tecnológicos innovadores. Mi capacidad para adaptarme a distintos sectores y mi visión estratégica me han permitido crear proyectos exitosos en diversas industrias.
 
-¿Quién soy?
-Soy un programador full stack orientado al diseño y desarrollo front-end. Desde que tengo 15 años me interese en la programación y el desarrollo de aplicaciones web, mi primer acercamiento con la programación fue en la escuela técnica, mi primer lenguaje en aprender fue HTML. Siempre he tenido una gran fascinación por el diseño y la informática. Esta pasión me llevó a explorar diferentes áreas tecnológicas hasta que descubrí el desarrollo Full Stack, donde encontré mi verdadera vocación.
+En el ámbito gastronómico, fui dueño de tres bares, una cafetería y varios emprendimientos propios, desempeñándome como mozo, cajero, cocinero, jefe de cocina y asesor gastronómico. También organicé eventos y festivales, tanto privados como públicos, consolidando mi experiencia en la planificación y gestión de grandes producciones.
 
+En el sector del entretenimiento, fundé y dirigí una sala de espectáculos, que sigue funcionando hoy en día, y fui propietario de una discoteca, contribuyendo al desarrollo de la escena cultural y nocturna. Además, tuve mi propio taller de serigrafía y un taller de cartelería, aplicando mi creatividad al diseño y la producción gráfica.
 
-¿Qué hago?
-Actualmente me dedico a realizar proyectos y mejorar mis conocimientos en las tecnologias mas avanzadas. Me encanta aprender cosas nuevas y encontrar diferentes caminos para resolver los problemas.
+En el mundo de la tecnología, he desarrollado diversas aplicaciones web, destacándose Gym-Metrics, una plataforma para la gestión de métricas en gimnasios, y Yochambeo, un Job board que facilita la conexión entre empleadores y trabajadores.
 
-
-¿A dónde me dirijo?
-Actualmente me dedico a realizar proyectos y mejorar mis conocimientos en las tecnologías más avanzadas. Me encanta aprender cosas nuevas y encontrar diferentes caminos para resolver los problemas.
+Con una mentalidad emprendedora y una gran capacidad de adaptación, he sabido combinar mi experiencia en distintos rubros para crear proyectos sólidos y escalables. Mi enfoque estratégico, sumado a mi habilidad para la gestión y el desarrollo tecnológico, me posiciona como un empresario versátil y orientado a la innovación.
