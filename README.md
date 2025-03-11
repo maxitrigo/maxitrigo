@@ -1,16 +1,14 @@
-## Hi there 👋
+Hola! mi nombre es Maximiliano Trigo
+Tambien conocido como maxitrigo en github.
+Mi email: maxitrigo@gmail.com
 
-<!--
-**maxitrigo/maxitrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quién soy?
+Soy un programador full stack orientado al diseño y desarrollo front-end. Desde que tengo 15 años me interese en la programación y el desarrollo de aplicaciones web, mi primer acercamiento con la programación fue en la escuela técnica, mi primer lenguaje en aprender fue HTML. Siempre he tenido una gran fascinación por el diseño y la informática. Esta pasión me llevó a explorar diferentes áreas tecnológicas hasta que descubrí el desarrollo Full Stack, donde encontré mi verdadera vocación.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Qué hago?
+Actualmente me dedico a realizar proyectos y mejorar mis conocimientos en las tecnologias mas avanzadas. Me encanta aprender cosas nuevas y encontrar diferentes caminos para resolver los problemas.
+
+
+¿A dónde me dirijo?
+Actualmente me dedico a realizar proyectos y mejorar mis conocimientos en las tecnologías más avanzadas. Me encanta aprender cosas nuevas y encontrar diferentes caminos para resolver los problemas.
