@@ -7,3 +7,24 @@ En el sector del entretenimiento, fundé y dirigí una sala de espectáculos, qu
 En el mundo de la tecnología, he desarrollado diversas aplicaciones web, destacándose Gym-Metrics, una plataforma para la gestión de métricas en gimnasios, y Yochambeo, un Job board que facilita la conexión entre empleadores y trabajadores.
 
 Con una mentalidad emprendedora y una gran capacidad de adaptación, he sabido combinar mi experiencia en distintos rubros para crear proyectos sólidos y escalables. Mi enfoque estratégico, sumado a mi habilidad para la gestión y el desarrollo tecnológico, me posiciona como un empresario versátil y orientado a la innovación.
+
+## 🚀 Tecnologías que uso  
+
+### 🖥️ Frontend  
+- Next.js  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- React  
+- Tailwind CSS  
+
+### ⚙️ Backend  
+- NestJS  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- Node.js  
+- TypeORM  
+
+### 🛢️ Base de datos  
+- PostgreSQL  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Otras herramientas  
+- Git & GitHub  
+- Docker  
+- Prisma  
+- Vercel  
